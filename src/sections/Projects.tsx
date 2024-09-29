@@ -6,7 +6,7 @@ import { SectionHeader } from "@/components/SectionHeader";
 import { Card } from "@/components/Card";
 
 // Assets
-import newsBustr from "@/assets/images/newsBustr.png";
+import newsBustr from "@/assets/images/newsBustr1.png";
 import novaNest from "@/assets/images/novaNest.png";
 
 
