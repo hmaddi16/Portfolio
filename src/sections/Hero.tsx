@@ -51,12 +51,12 @@ export const HeroSection = () => {
       {/* Hero Text */}
       <div className="max-width-lg mx-auto">
         <h1 className="font-serif text-4xl md:text-5xl text-center mt-0 tracking-wide"> 
-          Hi! I'm <span className="text-color-secondary">Harshitha</span> Maddi.
+          Hi! I&apos;m <span className="text-color-secondary">Harshitha</span> Maddi.
         </h1>
 
         <p className="mt-1 text-center text-white/60 md:text-lg">
           A Computer Science student with a passion in the intersection          
-          <br></br>of business &  technology. With practical experience, I seek to explore
+          <br></br>of business & technology. With practical experience, I seek to explore
           <br></br> new opportunities. Browse my page to learn more about me!
         </p>
       </div>
