@@ -1,5 +1,5 @@
 **Overview** <br>
-This personal portfolio is a dynamic and modern web application built with a focus on user experience and effective design. The project leverages Tailwind CSS for responsive and utility styling, and Framer Motion for smooth animations, bringing the interface to life.
+This personal portfolio is a modern web application built with a focus on user experience and effective design. The project leverages Tailwind CSS for responsive and utility styling and Framer Motion for smooth animations, bringing the interface to life.
 
 **Features** <br>
 - Responsive Design: Supporting cross compatibility, this webpage adheres to the Desktop, Tablet, & Mobile view.  
