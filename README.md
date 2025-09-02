@@ -36,8 +36,3 @@ A modern, responsive portfolio web application built to showcase projects, exper
 | `sections/`   | Main webpage content sections: `Hero`, `About`, `Experience`, `Contact`, `Footer` |
 
 ---
-
-## 📬 Contact
-
-Created and maintained by [Your Name].  
-Feel free to reach out via the [Contact section](#contact) on the site!
