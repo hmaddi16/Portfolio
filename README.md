@@ -1,4 +1,4 @@
-# 🌐 Personal Developer Portfolio
+# 🌐 Personal Portfolio
 
 A modern, responsive portfolio web application built to showcase projects, experience, and design skills — leveraging Tailwind CSS for responsive and utility styling and Framer Motion for smooth animations, bringing the interface to life.
 
