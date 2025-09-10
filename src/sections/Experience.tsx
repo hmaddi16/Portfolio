@@ -17,11 +17,7 @@ const experience = [
   {
     name: "Data Analytics Intern",
     position: "American Witness | DC Witness",
-<<<<<<< HEAD
     text: "Optimized DASH App functionality + UI, enhancing graph readability. Cleaned & categorized incident records using Python libraries by implementing parent-child classifications",
-=======
-    text: "Optimized the DASH App’s functionality + UI, enhancing graph readability. Cleaned & categorized incident records using Python libraries by implementing parent-child classifications",
->>>>>>> 8b5b087f96db57aa14a5106472beb77e4b4668a5
     avatar: dcWitness,
   },
   {

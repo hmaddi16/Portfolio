@@ -10,11 +10,7 @@ const footerLinks = [
   },
   {
     title: "GitHub",
-<<<<<<< HEAD
     href: "https://github.com/hmaddi16", 
-=======
-    href: "https://github.com/hmaddi61", 
->>>>>>> 8b5b087f96db57aa14a5106472beb77e4b4668a5
   },
   {
     title: "Home",
