@@ -13,29 +13,16 @@ export const Header = () => {
   };
 
   return (
-<<<<<<< HEAD
     <div className="flex justify-center items-center fixed top-5 w-full z-10">
 
       {/* Navigation Bar */}
       <nav className="flex gap-1 p-1 border border-white/15 rounded-full bg-color-secondary backdrop-blur">
-=======
-    <div className="flex justify-center items-center fixed top-6 w-full z-10 sm:top-8">
-
-      {/* Navigation Bar */}
-      <nav className="flex gap-1 p-1 border border-white/15 rounded-full bg-color-secondary backdrop-blur">
-        {/* 
-        HOME BUTTON DISABLED
->>>>>>> 8b5b087f96db57aa14a5106472beb77e4b4668a5
         <a href="#hero"
           className={`nav-item ${activeLink === "#hero" ? "active" : ""}`}
           onClick={() => handleClick("#hero")}
         >
           Home
         </a>
-<<<<<<< HEAD
-=======
-        */}
->>>>>>> 8b5b087f96db57aa14a5106472beb77e4b4668a5
 
         <a
           href="#about"
@@ -72,8 +59,3 @@ export const Header = () => {
     </div>
   );
 };
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 8b5b087f96db57aa14a5106472beb77e4b4668a5
