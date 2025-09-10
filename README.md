@@ -1,4 +1,4 @@
-# 🌐 Personal Developer Portfolio
+# 🌐 Personal Portfolio
 
 A modern, responsive portfolio web application built to showcase projects, experience, and design skills — combining smooth animations, clean code architecture, and a user-first interface.
 
